@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export GPP-Woo avatar.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="1.03057in" height="1.04674in" viewBox="0 0 74.2008 75.3652" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
+	<title>GPP-Woo avatar</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#4672c4;stroke:none;stroke-width:0.25}
+		.st2 {fill:#ffffff;stroke:none;stroke-width:0.25}
+		.st3 {fill:#ffffff;stroke:#4672c4;stroke-width:2.25}
+		.st4 {fill:#ffffff;stroke:none;stroke-width:6.375}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Pagina-1</title>
+		<g id="shape24-1" transform="translate(0.25,-0.25)">
+			<title>Vierkant</title>
+			<rect x="0" y="1.66437" width="73.7008" height="73.7008" class="st1"/>
+		</g>
+		<g id="shape2-3" transform="translate(8.75394,-15.1319)">
+			<title>Rechthoek.2</title>
+			<rect x="0" y="69.6959" width="56.6929" height="5.66929" class="st2"/>
+		</g>
+		<g id="shape5-5" transform="translate(11.5886,-23.6358)">
+			<title>Rechthoek.5</title>
+			<rect x="0" y="49.8533" width="8.50394" height="25.5118" class="st2"/>
+		</g>
+		<g id="shape6-7" transform="translate(54.1083,-23.6358)">
+			<title>Rechthoek.6</title>
+			<rect x="0" y="49.8533" width="8.50394" height="25.5118" class="st2"/>
+		</g>
+		<g id="shape3-9" transform="translate(95.4577,60.2333) rotate(90) scale(-1,1)">
+			<title>Parallellogram</title>
+			<path d="M0 75.37 L28.35 75.37 L36.85 69.7 L8.5 69.7 L0 75.37 Z" class="st3"/>
+		</g>
+		<g id="shape12-11" transform="translate(-21.2569,60.2333) rotate(-90)">
+			<title>Parallellogram.12</title>
+			<path d="M0 75.37 L28.35 75.37 L36.85 69.7 L8.5 69.7 L0 75.37 Z" class="st3"/>
+		</g>
+		<g id="shape22-13" transform="translate(34.2657,-23.6358)">
+			<title>Rechthoek.22</title>
+			<rect x="0" y="62.6093" width="5.66929" height="12.7559" class="st2"/>
+		</g>
+		<g id="shape23-15" transform="translate(34.039,-38.7728)">
+			<title>Cirkel.23</title>
+			<path d="M0 72.3 A3.06142 3.06142 0 0 1 6.12 72.3 A3.06142 3.06142 0 1 1 0 72.3 Z" class="st2"/>
+		</g>
+		<g id="shape27-17" transform="translate(11.5886,-51.9823)">
+			<title>Driehoek</title>
+			<path d="M51.02 75.37 L25.51 64.03 L0 75.37 L51.02 75.37 Z" class="st2"/>
+		</g>
+		<g id="shape1-19" transform="translate(5.91929,-6.62795)">
+			<title>Rechthoek</title>
+			<rect x="0" y="69.6959" width="62.3622" height="5.66929" class="st2"/>
+		</g>
+		<g id="group1003-21" transform="translate(37.1004,-61.1161)">
+			<title>Vlag.1003</title>
+			<g id="shape1004-22">
+				<title>Blad.1004</title>
+				<path d="M0.3 67.51 C0.48 67.51 0.61 67.64 0.61 67.81 L0.61 75.37 L0 75.37 L0 67.81 C0 67.64 0.13 67.51 0.3 67.51
+							 Z" class="st4"/>
+			</g>
+			<g id="shape1005-24" transform="translate(1.01237,-4.33954)">
+				<title>Blad.1005</title>
+				<path d="M1.29 71.83 C2.36 71.83 3.09 72.3 4.66 71.85 L4.66 75.1 C3.41 75.65 2.36 75.08 1.29 75.08 C0.38 75.08 0
+							 75.37 0 75.37 L0 72.12 C0 72.12 0.39 71.83 1.29 71.83 Z" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>
