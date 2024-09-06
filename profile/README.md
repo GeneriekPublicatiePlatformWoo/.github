@@ -17,7 +17,7 @@ Met het project ‘Generiek Publicatieplatform Woo (GGP-Woo)’ ontwikkelen en r
 
 We volgen daarbij de principes van [Common Ground](https://commonground.nl/) en open source. Uiteraard besteden we daarbij ook volop aandacht aan het voldoen aan wet- en regelgeving, informatieveiligheid, digitale toegankelijkheid en open standaarden.
 
-Meer informatie over de boogde oplossing is te lezen in onze [Project Start Architectuur]().
+Meer informatie over de boogde oplossing is te lezen in onze [Project Start Architectuur](https://github.com/GeneriekPublicatiePlatformWoo/.github/blob/1a2cea53d0b80b66c18b94eae2627d5cd759a82a/docs/PSA%20Generiek%20Publicatieplatform%20Woo%20V1.1.pdf).
 
 
 ## Wie zijn "we"?
