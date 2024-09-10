@@ -33,7 +33,7 @@ Het project GPP-Woo wordt uitgevoerd onder de vlag van en ondersteund door [Dimp
 - Gemeente Waterland
 - Gemeente Zaanstad
 
-Het platform wordt momenteel in opdracht van Dimpact ontwikkeld door [ICATT](https://www.icatt.nl/) en [Maykin Media](https://www.maykinmedia.nl/nl/).
+Het platform wordt momenteel in opdracht van Dimpact ontwikkeld door [ICATT](https://www.icatt.nl/) en [Maykin](https://www.maykinmedia.nl/nl/).
 
 [^1]: Niet lid van Dimpact.
 
